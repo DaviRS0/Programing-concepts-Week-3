@@ -1,5 +1,11 @@
 This is an project that required the following options.
 
+Program Requirements
+Create a C# console program that presents the user with a main menu of three options using a do loop approach. Each
+menu option will perform a series of calculations, as noted in the instructions below. Encapsulate the logic of Option 1
+and Option 2 within their own method. 
+
+
 Option 1 - Display a list of 10 sequential numbers that have their values manipulated as noted below.
 1. Ask the user for the starting number.
 2. Using a for loop, start with the number after the number entered and perform the following calculations to the
